@@ -1,0 +1,124 @@
+ACE Chocolate Performance Analysis  
+
+Introduction
+
+This project provides a detailed performance analysis of ACE Chocolate for the year 2023. The purpose of this report is to evaluate the company's overall business performance across key operational and financial metrics, including sales, market growth, product performance, customer trends, and regional distribution. The analysis aims to identify strengths, challenges, and opportunities that influenced ACE Chocolate’s performance during the year.
+Utilizing data collected throughout 2023 and processed primarily through Microsoft Excel, this report applies quantitative methods such as trend analysis, comparative evaluation, and data visualization. The findings presented are intended to inform strategic planning, support data-driven decision-making, and enhance future performance outcomes.
+
+Objectives of the Analysis
+ 
+ Evaluate Sales Performance:
+Analyze total annual sales and identify monthly and seasonal trends throughout 2023.
+ Assess Product Line Performance:
+Determine the performance of different chocolate products and identify best- and worst-selling items.
+ Analyze Regional Sales Distribution:
+Examine sales performance across various regions to highlight strong and underperforming markets.
+ Track Revenue and Profitability Trends:
+Monitor revenue growth and profitability to assess overall financial health.
+ Identify Market Opportunities and Challenges:
+Highlight external and internal factors that impacted ACE Chocolate’s performance in 2023.
+	Examine Customer Behavior Patterns:
+Analyze customer purchase trends and preferences to support targeted marketing and product development.
+	Support Strategic Decision-Making:
+Provide actionable insights to guide future business strategies and improve operational efficiency.
+	Visualize Data for Clarity:
+Use charts, graphs, and tables to present findings in a clear and accessible format for stakeholders.
+
+ Key Dataset and Methodology
+Microsoft Excel was utilized as the primary tool for data processing, visualization, and statistical analysis, due to its robust capabilities in managing large datasets and generating insightful reports.
+The primary datasets include:
+	Monthly Sales Data:
+Detailed records of sales transactions across all product lines and regions.
+	Product Catalog Data:
+Information on each product’s category, pricing, launch date, and availability.
+	Regional Sales Reports:
+Aggregated data by geographic location, including sales volume and revenue per region.
+	Customer Purchase Data:
+Records of customer transactions, including frequency, volume, and product preferences.
+	Cost and Revenue Data:
+Breakdown of production costs, operational expenses, and revenue streams.
+
+Methodology
+The performance analysis was conducted using Microsoft Excel as the primary analytical tool. The following methods and techniques were applied:
+	Data Cleaning and Preparation:
+Raw data was cleaned, formatted, and consolidated to ensure consistency and accuracy.
+	Trend Analysis:
+Monthly and quarterly trends were identified using line charts and moving averages.
+	Comparative Analysis:
+Performance was compared across regions, product lines, and time periods to identify patterns and outliers.
+	Pivot Tables and Charts:
+Used to summarize and visualize complex data relationships and distributions.
+	Correlation Analysis:
+Explored relationships between variables such as promotions and sales spikes.
+	Data Visualization:
+Bar charts, pie charts, and dashboards were created for intuitive presentation of key insights.
+
+ Story of Data
+The data used for this analysis is downloaded from Kaggle.com.
+
+Data Structure
+The data structure has the column representing different variables such as Sales Person, Country, Product, Amount, Boxes Shipped and the likes, while the rows represent different customers and their transactions with dates and other customer data.
+The important features in this performance analysis include the Sales Person, Country, Product, Amount, Boxes Shipped.
+Data Splitting and Preprocessing
+
+Data cleaning
+After observing the data manually, I discovered that the data was consistent to an appreciable level. There was no missing data in a cell, and no missing rows that needed cleaning. I also checked if data was duplicated in the dataset but no Data duplicate was discovered. And no white space found meaning the dataset was consistent.
+I now Split the data into category 1 which is independent values and category 2 dependent values.
+
+Industry type and stakeholders
+Super Market (Chocolate Store)
+
+Core Value to the industry
+Revenue, maintaining present customer base and expanding for more customers - core value
+
+Pre-Analysis
+Project split
+Category 1 Independent Values
+Sales Person, Country, Product type 
+Category 2 Dependent Values
+Amount, Boxes Shipped
+
+Potential Analysis
+Analyzing top salesperson by revenue.
+Analyzing top sales country by revenue
+Analyzing highest sales products by revenue
+Analyzing highest boxes shipped by country 
+Analyzing the highest boxes shipped by salesperson
+Analyzing highest sales month by revenue
+Analyzing transaction by amount 
+
+Potential Insight
+By analyzing salesperson by revenue we will be able to discover the highest salesperson among the team. 
+Top sales country by revenue makes us to know the country that has the highest patronage 
+The highest sales product by revenue makes us denote the product that sells more among the set of products 
+Highest boxes shipped by country also helps us to know the country where shipping of the product is prevalent. 
+Highest sales month will be determined by analyzing revenue by dates. 
+
+IN ANALYSIS
+In-Analysis Observation
+
+The top sales person in this analysis is Ches Bonnell having 320901 sales compared to his counterpart
+It is also observed that the top sales country by revenue is Australia. 
+Highest boxes shipped by salesperson is Karen McCaffey who shipped 9658 in all and the follow up sales person is Beverie Moffet while the least is Brien Boise with 8102 shipped.
+June 2023 is the highest sales month in the year. 
+In analysis insight
+June 2023 is the highest sales month in the year. The company need to check out what made this month of June more resourceful than other months and then replicate same in the other months  
+Ches Bonnell being the highest sales person needs to be asked about techniques used for achieving this.
+Highest boxes shipped by salesperson is Karen McCaffey  who shipped 9658 in all and the follow up sales person is Beverie Moffet while the least is Brien Boise with 8102 shipped.
+The products between 1000 - 2999 has the highest counts of sales of 229, this means that the customers are buying products within this range more than the other products or brands of chocolate. My recommendation in this wise is that these brands of chocolate should not be out of stock so as encourage more of the patronage. Also areas that are not doing well in sale should be supplied these brands of chocolates and techniques used in the areas doing well should be replicated.
+
+RECOMMENDATIONS AND OBSERVATIONS
+
+Final Observation
+The top sales person in this analysis is Ches Bonnell having 320901 sales compared to his counterpart. 
+It is also observed that the top sales country by revenue is Australia. 
+Highest boxes shipped by salesperson is Karen McCaffey  who shipped 9658 in all and the follow up sales person is Beverie Moffet while the least is Brien Boise with 8102 shipped.
+June 2023 is the highest sales month in the year.
+The products between 1000 - 2999 has the highest counts of sales of 229, this means that the customers are buying products within this range more than the other products or brands of chocolate.
+
+Final Recommendation
+I recommend that this sales person trains the others with the technique used to achieve this record so as to make others do same. The highest sales person should also be transferred to areas that are not doing well to replicate his expertise for better sales. A dimension of reward should be introduced so as to encourage other sales personnel. However, this sales person also had months where he did not really perform well, so he also needs to be encouraged to always replicate the techques used in other months where he did not do well.
+Those sales personnel that are making things work here in Australia should be transferred to the other countries that are not doing well to replicate their expertise.
+I recommend that this sales person trains the others with the technique used to achieve this record so as to make other do same. The highest shipping person should also be transferred to areas that are not doing well to replicate his expertise for better sales. A dimension of reward should be introduced so as to encourage other shipping personnel.
+The company need to check out what made this month of June more resourceful than other months and then replicate same in the other months  
+The products between 1000 - 2999 has the highest counts of sales of 229, this means that the customers are buying products within this range more than the other products or brands of chocolate. My recommendation in this wise is that these brands of chocolate should not be out of stock so as to encourage more of the patronage. Also areas that are not doing well in sales should be supplied these brands of chocolates and techniques used in the areas doing well should be replicated.
